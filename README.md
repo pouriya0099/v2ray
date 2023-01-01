@@ -21,3 +21,4 @@
  # آموزش تصویری
  
  
+[![Semantic](https://github.com/pouriya0099/v2ray/blob/44df2d05f6ebf593cde59d2d0218001d08c34f68/pic/photo_2023-01-01_19-44-14.jpg)](https://github.com/pouriya0099/v2ray/blob/44df2d05f6ebf593cde59d2d0218001d08c34f68/pic/photo_2023-01-01_19-44-14.jpg)
