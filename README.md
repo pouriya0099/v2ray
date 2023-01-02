@@ -49,13 +49,13 @@
 
 و روی مثل کلیک کنید تا وصل شود
 
-[![Semantic](https://github.com/pouriya0099/v2ray/blob/d8c921215a546b2ff8277df0a0c44e45479a550d/pic/4.jpg)](https://github.com/pouriya0099/v2ray/blob/d8c921215a546b2ff8277df0a0c44e45479a550d/pic/4.jpg)
+[![Semantic](https://github.com/pouriya0099/v2ray/blob/3517549fe744b7fbef42d402f37d8f5dbafca764/pic/4.jpg)](https://github.com/pouriya0099/v2ray/blob/3517549fe744b7fbef42d402f37d8f5dbafca764/pic/4.jpg)
 
-[![Semantic](https://github.com/pouriya0099/v2ray/blob/d8c921215a546b2ff8277df0a0c44e45479a550d/pic/5.jpg)](https://github.com/pouriya0099/v2ray/blob/d8c921215a546b2ff8277df0a0c44e45479a550d/pic/5.jpg)
+[![Semantic](https://github.com/pouriya0099/v2ray/blob/3517549fe744b7fbef42d402f37d8f5dbafca764/pic/5.jpg)](https://github.com/pouriya0099/v2ray/blob/3517549fe744b7fbef42d402f37d8f5dbafca764/pic/5.jpg)
 
-[![Semantic](https://github.com/pouriya0099/v2ray/blob/d8c921215a546b2ff8277df0a0c44e45479a550d/pic/6.jpg)](https://github.com/pouriya0099/v2ray/blob/d8c921215a546b2ff8277df0a0c44e45479a550d/pic/6.jpg)
+[![Semantic](https://github.com/pouriya0099/v2ray/blob/3517549fe744b7fbef42d402f37d8f5dbafca764/pic/6.jpg)](https://github.com/pouriya0099/v2ray/blob/3517549fe744b7fbef42d402f37d8f5dbafca764/pic/6.jpg)
 
-[![Semantic](https://github.com/pouriya0099/v2ray/blob/d8c921215a546b2ff8277df0a0c44e45479a550d/pic/7.jpg)](https://github.com/pouriya0099/v2ray/blob/d8c921215a546b2ff8277df0a0c44e45479a550d/pic/7.jpg)
+[![Semantic](https://github.com/pouriya0099/v2ray/blob/3517549fe744b7fbef42d402f37d8f5dbafca764/pic/7.jpg)](https://github.com/pouriya0099/v2ray/blob/3517549fe744b7fbef42d402f37d8f5dbafca764/pic/7.jpg)
 
 در اندروید هم میتوان از این برنامه استفاده کرد با نصب از گوگل پلی 
 در صورت هر گونه مشکل در تلگرام به ای دی 
