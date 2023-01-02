@@ -11,6 +11,7 @@
  [نسخه ۵](https://github.com/2dust/v2rayNG/releases/download/1.7.31/v2rayNG_1.7.31_x86.apk)  
  [نسخه ۶](https://github.com/2dust/v2rayNG/releases/download/1.7.31/v2rayNG_1.7.31_x86_64.apk)  
 
+ایدی تلگرام پشتیبانی فنی up2dl
 اگر هیچ کدام نصب نشد از پشتیبانی کمک بگیرید
 ابتدا کد سرور را که برایتان ارسال شده کپی بگیرید این کد را با توجه به محدودیت تعداد کاربر سرویس شما میتوانید به کاربران دیگر نیز بدهید
  
@@ -47,3 +48,16 @@
 دوباره از پایین برنامه وارد بخش خانه شده
 
 و روی مثل کلیک کنید تا وصل شود
+
+[![Semantic](https://github.com/pouriya0099/v2ray/blob/d8c921215a546b2ff8277df0a0c44e45479a550d/pic/4.jpg)](https://github.com/pouriya0099/v2ray/blob/d8c921215a546b2ff8277df0a0c44e45479a550d/pic/4.jpg)
+
+[![Semantic](https://github.com/pouriya0099/v2ray/blob/d8c921215a546b2ff8277df0a0c44e45479a550d/pic/5.jpg)](https://github.com/pouriya0099/v2ray/blob/d8c921215a546b2ff8277df0a0c44e45479a550d/pic/5.jpg)
+
+[![Semantic](https://github.com/pouriya0099/v2ray/blob/d8c921215a546b2ff8277df0a0c44e45479a550d/pic/6.jpg)](https://github.com/pouriya0099/v2ray/blob/d8c921215a546b2ff8277df0a0c44e45479a550d/pic/6.jpg)
+
+[![Semantic](https://github.com/pouriya0099/v2ray/blob/d8c921215a546b2ff8277df0a0c44e45479a550d/pic/7.jpg)](https://github.com/pouriya0099/v2ray/blob/d8c921215a546b2ff8277df0a0c44e45479a550d/pic/7.jpg)
+
+در اندروید هم میتوان از این برنامه استفاده کرد با نصب از گوگل پلی 
+در صورت هر گونه مشکل در تلگرام به ای دی 
+@up2dl
+پیام دهید
