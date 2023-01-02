@@ -1,9 +1,9 @@
 # v2ray 
-## اموزش اتصال به v2ray
-### قابل نصب در windows mac ios android
-# اموزش اتصال در  اندروید
+### اموزش اتصال به v2ray
+#### قابل نصب در windows mac ios android
+## اموزش اتصال در  اندروید:
 برای نصب ابتدا برنامه v2rayng را از لینک زیر دانلود کنید(لینک ها فیلتر نیست)
-### [لینک ۱](https://github.com/pouriya0099/v2ray/raw/main/com_v2ray_ang_v1.7.23.apk)
+## [لینک ۱](https://github.com/pouriya0099/v2ray/raw/main/com_v2ray_ang_v1.7.23.apk)
 در صورت نصب نشدن برنامه از لینک بالا به ترتیب نسخه های دیگر برنامه را از این لینک ها دانلود کنید   
  [نسخه ۲](https://github.com/2dust/v2rayNG/releases/download/1.7.31/v2rayNG_1.7.31.apk)  
  [نسخه ۳](https://github.com/2dust/v2rayNG/releases/download/1.7.31/v2rayNG_1.7.31_arm64-v8a.apk)  
@@ -48,6 +48,7 @@
 دوباره از پایین برنامه وارد بخش خانه شده
 
 و روی مثل کلیک کنید تا وصل شود
+## اموزش تصویری اتصال در ایفون و اندروید برای برنامه napsternetV
 
 [![Semantic](https://github.com/pouriya0099/v2ray/blob/3517549fe744b7fbef42d402f37d8f5dbafca764/pic/4.jpg)](https://github.com/pouriya0099/v2ray/blob/3517549fe744b7fbef42d402f37d8f5dbafca764/pic/4.jpg)
 
