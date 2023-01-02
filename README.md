@@ -19,4 +19,17 @@
  
  کد داخل برنامه اضافه میشود با زدن علامت v در پایین صفحه شما متصل میشوید
  # آموزش تصویری
- 
+ [![Semantic](https://github.com/pouriya0099/v2ray/blob/d8c921215a546b2ff8277df0a0c44e45479a550d/pic/1.jpg)](https://github.com/pouriya0099/v2ray/blob/d8c921215a546b2ff8277df0a0c44e45479a550d/pic/1.jpg)
+
+[![Semantic](https://github.com/pouriya0099/v2ray/blob/d8c921215a546b2ff8277df0a0c44e45479a550d/pic/2.jpg)](https://github.com/pouriya0099/v2ray/blob/d8c921215a546b2ff8277df0a0c44e45479a550d/pic/2.jpg)
+
+ [![Semantic](https://github.com/pouriya0099/v2ray/blob/d8c921215a546b2ff8277df0a0c44e45479a550d/pic/3.jpg)](https://github.com/pouriya0099/v2ray/blob/d8c921215a546b2ff8277df0a0c44e45479a550d/pic/3.jpg)
+
+بر روی نوشته connected که بزنید اطلاعاتی حاوی ping به شما میدهد اگر در حین کار با وی پی ان سرعت پایین امد چند بار اینکار را انجام دهید تا سرعت دوباره بالا رود
+در صورت قطع شدن کامل یک بار فیلتر شکن را خاموش و روشن کنید
+بهتر است بعد از وصل شدن به اینترنت از گوگل پلی برنامه napsternetV را نصب کنید.این برنامه اتصال پایدار تری دارد
+
+
+# استفاده در IOS
+ابتدا برنامه napsternetV را از اپل استور نصب کنید 
+سپس  از پایین برنامه روی کره زمین بزنید 
