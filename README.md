@@ -1,6 +1,6 @@
 # v2ray 
 ### اموزش اتصال به v2ray
-#### قابل نصب در windows mac ios android
+#### قابل نصب درwindows mac ios android
 ## اموزش اتصال در  اندروید:
 برای نصب ابتدا برنامه v2rayng را از لینک زیر دانلود کنید(لینک ها فیلتر نیست)
 ## [لینک ۱](https://github.com/pouriya0099/v2ray/raw/main/com_v2ray_ang_v1.7.23.apk)
@@ -11,7 +11,8 @@
  [نسخه ۵](https://github.com/2dust/v2rayNG/releases/download/1.7.31/v2rayNG_1.7.31_x86.apk)  
  [نسخه ۶](https://github.com/2dust/v2rayNG/releases/download/1.7.31/v2rayNG_1.7.31_x86_64.apk)  
 
-ایدی تلگرام پشتیبانی فنی up2dl
+[تلگرام پشتیبانی فنی up2dl@](t.me/up2dl)
+
 اگر هیچ کدام نصب نشد از پشتیبانی کمک بگیرید
 ابتدا کد سرور را که برایتان ارسال شده کپی بگیرید این کد را با توجه به محدودیت تعداد کاربر سرویس شما میتوانید به کاربران دیگر نیز بدهید
  
@@ -59,6 +60,7 @@
 [![Semantic](https://github.com/pouriya0099/v2ray/blob/3517549fe744b7fbef42d402f37d8f5dbafca764/pic/7.jpg)](https://github.com/pouriya0099/v2ray/blob/3517549fe744b7fbef42d402f37d8f5dbafca764/pic/7.jpg)
 
 در اندروید هم میتوان از این برنامه استفاده کرد با نصب از گوگل پلی 
-در صورت هر گونه مشکل در تلگرام به ای دی 
-@up2dl
-پیام دهید
+در صورت وجود هر گونه مشکل یا برای نصب در سیستم عامل های دیگر به پشتیبانی در تلگرام پیام دهید: 
+
+[تلگرام پشتیبانی فنی up2dl@](t.me/up2dl)
+
