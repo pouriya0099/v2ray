@@ -1,4 +1,4 @@
-# v2ray 
+# v2ray
 ### اموزش اتصال به v2ray
 #### قابل نصب درwindows mac ios android
 ## اموزش اتصال در  اندروید:
